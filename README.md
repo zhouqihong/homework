@@ -1,6 +1,6 @@
 # homework
 
-**Assignment_01_z  基于规则生成对话
+**Assignment_01_z**  基于规则生成对话
 知识点：语言模型，n-gram
 
 **Assignment_02_z** 搜索
