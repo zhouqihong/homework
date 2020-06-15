@@ -10,3 +10,5 @@
 知识点：编辑距离，语言模型
 
 **Assignment_04_z** TextRank、依存句法、人物观点提取
+
+**Assignment_05_z**  Decision Tree 熵 信息增益
