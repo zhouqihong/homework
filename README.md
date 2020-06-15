@@ -8,3 +8,5 @@
 
 **Assignment_03_z** 编辑距离、拼音自动纠错
 知识点：编辑距离，语言模型
+
+**Assignment_04_z** TextRank、依存句法、人物观点提取
