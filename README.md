@@ -13,5 +13,5 @@
 
 **Assignment_05_z**  Decision Tree 熵 信息增益
 
-**Assignment_06_z** 机器学习二， 数据集划分，XGBoost, ramdom forest, SVM
+**Assignment_06_z** 机器学习二， 数据集划分，XGBoost, random forest, SVM
 
