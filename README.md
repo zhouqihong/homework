@@ -1,4 +1,5 @@
 # homework
+2020年0510开始，每周一次作业，连续14周，KAIKEBA course
 
 **Assignment_01_z**  基于规则生成对话
 知识点：语言模型，n-gram
